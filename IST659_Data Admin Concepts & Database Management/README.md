@@ -1,1 +1,1 @@
-Data Admin Concepts & Database Management
+IST659 Data Admin Concepts & Database Management
