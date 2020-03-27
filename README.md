@@ -1,4 +1,4 @@
-# Syracuse University, MS. Applied Data Science
+# Syracuse University, MS. Applied Data Science Program
 ##					iSchool Portfolio Milestone
 
 ### Details:  
