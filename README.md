@@ -20,4 +20,3 @@ The Applied Data Science Program at Syracuse University is designed provide stud
 4. Key Reference Projects.
 
 5. Video Presentation.  
-===
