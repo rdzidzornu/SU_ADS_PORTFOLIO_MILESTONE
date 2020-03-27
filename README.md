@@ -1,7 +1,7 @@
 # Syracuse University, MS. APPlied Data Science
 ##					iSchool Portfolio Milestone
 
-## Details:
+## Details:  
 Name:: Dzidzornu, Richard, M  
 Program:: Applied Data Science  
 Email:: rmdzidzo@syr.edu  
