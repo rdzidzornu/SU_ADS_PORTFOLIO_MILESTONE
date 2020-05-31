@@ -21,5 +21,10 @@ This repository contains all necessary details needed to fulfill the Portfolio M
 
 4. Key Reference Projects.
     1. IST719 Information Visualization
+    2. IST659 Data Administration
+    3. IST707 Data Analytics
+    4. Data Warehousing
 
 5. Video Presentation.  
+
+6. Project Presentation SlideDeck
