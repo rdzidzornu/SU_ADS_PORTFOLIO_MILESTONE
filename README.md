@@ -20,5 +20,6 @@ This repository contains all necessary details needed to fulfill the Portfolio M
 3. Project Portfolio Milestone Report.
 
 4. Key Reference Projects.
+    1. IST719 Information Visualization
 
 5. Video Presentation.  
