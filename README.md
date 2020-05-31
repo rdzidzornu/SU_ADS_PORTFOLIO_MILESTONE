@@ -20,7 +20,7 @@ This repository contains all necessary details needed to fulfill the Portfolio M
 3. Project Portfolio Milestone Report.
 
 4. Key Reference Projects.
-    * IST719 Information Visualization
+    - IST719 Information Visualization
     * IST659 Data Administration
     * IST707 Data Analytics
     * Data Warehousing
