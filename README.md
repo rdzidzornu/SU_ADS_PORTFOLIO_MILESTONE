@@ -14,6 +14,7 @@ This repository contains all necessary details needed to fulfill the Portfolio M
 
 ### Table of Content:
 1. README.md
+   * Overview Document
 
 2. Student Professional Resume.
 
