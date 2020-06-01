@@ -14,8 +14,10 @@ The Patients Reviews on Specific Drugs project used dataset from the Drugs.com o
 
 1. README.md
 
-2. Project Document
+2. Project Final Report
 
 3. Project Presentation SlideDeck
+
+4. Project Scripts
 
 
