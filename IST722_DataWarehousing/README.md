@@ -1,7 +1,7 @@
 
 # IST722: Data Warehousing
-
 ##	Fudgemart Inc. Data Warehouse
+
 ### Student Details:  
 ##### Name :: Dzidzornu, Richard, M  
 ##### Program :: Applied Data Science  
@@ -15,8 +15,10 @@ The Fudgemart Inc. Data Warehouse required the institution of a data warehouse f
 
 1. README.md
 
-2. Final Poster (pdf)
+2. Final Project (pdf)
 
-3. Final Poster Raw (Adobe Illustrator)
+3. Final Presentation (pdf)
 
-4. Project Scripts
+4. Detailed Dimensional Modeling
+
+5. Project Scripts
