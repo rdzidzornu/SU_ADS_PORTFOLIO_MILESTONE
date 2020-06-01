@@ -10,3 +10,13 @@
 ##
 ##       Description 
 The Fudgemart Inc. Data Warehouse required the institution of a data warehouse for Fudgemart Inc. which holds two subsidiaries to store and deliver the organization’s data assets which in otherwise was lacking of a centralized data system.
+
+## Content
+
+1. README.md
+
+2. Final Poster (pdf)
+
+3. Final Poster Raw (Adobe Illustrator)
+
+4. Project Scripts
