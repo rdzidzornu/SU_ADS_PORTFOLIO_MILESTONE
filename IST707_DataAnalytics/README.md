@@ -1,6 +1,6 @@
 # IST707: Data Analytics
+##	Patients Reviews on Specific Drugs Project
 
-##	iSchool Portfolio Milestone
 ### Student Details:  
 ##### Name :: Dzidzornu, Richard, M  
 ##### Program :: Applied Data Science  
