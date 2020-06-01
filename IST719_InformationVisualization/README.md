@@ -1,5 +1,5 @@
 # IST719: Data Visualization
-##	Housing Costs in California
+##	Housing Costs in California Poster
 
 ### Student Details:  
 ##### Name :: Dzidzornu, Richard, M  
